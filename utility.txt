@@ -1,0 +1,5 @@
+mongodb assets
+
+cluster=ChatbotCluster
+user=xYz7aB1cD3eF9gH
+psw=pX9STLAjBL8EkJNi
