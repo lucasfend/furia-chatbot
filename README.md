@@ -68,3 +68,13 @@ Foi criado um sistema de **injeção de contexto** via banco MongoDB, com a segu
      "title": "Historia do Fallen",
      "content": "O jogador FalleN fez história no CS brasileiro quando em 2016..."
    }
+
+## Contato
+
+Caso tenha dúvidas ou sugestões, entre em contato:
+
+- **Developer:** [Lucas Fend Ribeiro]
+- **E-mail:** [lucasribeiro.developer@outlook.com]
+- **LinkedIn:** [https://www.linkedin.com/in/lucasribfend/](https://www.linkedin.com/in/lucasribfend/)
+
+---
