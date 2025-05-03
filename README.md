@@ -1,4 +1,4 @@
-# FuriaChat, O chatbot da Furia!
+# FuriaChat, O chatbot da Furia! CHALLENGE 1
 
 Este projeto consiste em uma **landing page interativa com um chatbot inteligente** focado em fornecer informações atualizadas sobre a equipe de e-sports **FURIA**. A interface é simples, acessível e responsiva, e permite que o usuário converse com o bot para saber sobre **transferências, histórico de jogadores e curiosidades recentes**.
 
