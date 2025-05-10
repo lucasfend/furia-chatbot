@@ -1,0 +1,3 @@
+[submodule "angular-furiachat"]
+	path = angular-furiachat
+	url = https://github.com/lucasfend/angular-furiachat
